@@ -1,2 +1,2 @@
 # project1
-project1 for ort
+project1 for or
